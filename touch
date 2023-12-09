@@ -9,3 +9,6 @@ c = np.matmul(a+b)
 
 d = a+c
 
+e = a+b+c+d
+
+np.array(3,4)
